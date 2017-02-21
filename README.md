@@ -11,7 +11,7 @@ h1{
     color: rgb(0,0,255)
 }
 h2{
-    color: rgb(67,135,229)
+    color: rgb(0,0255)
 }
 p{
     color: rgb(255,0,40)
